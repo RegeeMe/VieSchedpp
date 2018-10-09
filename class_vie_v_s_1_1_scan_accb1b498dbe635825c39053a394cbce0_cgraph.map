@@ -1,0 +1,9 @@
+<map id="VieVS::Scan::output" name="VieVS::Scan::output">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_time_system.html#a186e0ea56f46009dfdb1d3816492a7eb" title="internal time format to time " alt="" coords="211,5,370,46"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_pointing_vector.html#a23bc8fbf2f44afef47aad793352df23d" title="getter for station id " alt="" coords="215,70,367,111"/>
+<area shape="rect" id="node4" href="$namespace_vie_v_s_1_1util.html#aebf695410797827a99aeb29d30f1ea8f" title="wrap angle to interval [0, pi) " alt="" coords="217,136,364,163"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_pointing_vector.html#a3add2ccb11acfef1a0523dab2a1460ce" title="getter for azimuth " alt="" coords="215,187,367,229"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_vie_v_s___named_object.html#a2f23922726dcdce18f03a06b3b94910f" title="get object name " alt="" coords="195,253,386,294"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_pointing_vector.html#af97572b6cd632d3643ff0fc37f605eb0" title="getter for elevation " alt="" coords="215,318,367,359"/>
+<area shape="rect" id="node8" href="$class_vie_v_s_1_1_vie_v_s___object.html#a633f6aeefc0eb1e39ed55c734311a6e7" title="get object id " alt="" coords="216,383,365,425"/>
+</map>

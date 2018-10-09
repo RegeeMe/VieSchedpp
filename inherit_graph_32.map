@@ -1,0 +1,55 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_vie_v_s_1_1_vie_v_s___object.html" title="VieVS base object. " alt="" coords="5,857,155,884"/>
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_abstract_antenna.html" title="representation of a VLBI antenna " alt="" coords="233,81,397,108"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_abstract_cable_wrap.html" title="representation of an VLBI cable wrap " alt="" coords="224,233,405,260"/>
+<area shape="rect" id="node10" href="$class_vie_v_s_1_1_abstract_flux.html" title="representation of source flux " alt="" coords="244,360,385,387"/>
+<area shape="rect" id="node13" href="$class_vie_v_s_1_1_abstract_horizon_mask.html" title="representation of VLBI horizon mask " alt="" coords="218,411,411,437"/>
+<area shape="rect" id="node16" href="$class_vie_v_s_1_1_equipment.html" title="representation of VLBI equipment " alt="" coords="250,461,379,488"/>
+<area shape="rect" id="node18" href="$class_vie_v_s_1_1_high_impact_scan_descriptor.html" title="define high impact scans " alt="" coords="203,512,427,539"/>
+<area shape="rect" id="node19" href="$class_vie_v_s_1_1_high_impact_scan_descriptor_1_1_az_el_descriptor.html" title="azimuth elevation based high impact scan descriptor " alt="" coords="203,563,427,605"/>
+<area shape="rect" id="node20" href="$class_vie_v_s_1_1_initializer.html" title="this is the VLBI initializer that creats every objects and passes them to the VLBI_scheduler ..." alt="" coords="255,629,374,656"/>
+<area shape="rect" id="node21" href="$class_vie_v_s_1_1_log_parser.html" title="parser for station log files " alt="" coords="251,680,378,707"/>
+<area shape="rect" id="node22" href="$class_vie_v_s_1_1_multi_scheduling.html" title="representation of VLBI multi scheduling tool " alt="" coords="235,731,394,757"/>
+<area shape="rect" id="node23" href="$class_vie_v_s_1_1_network.html" title="representation of a VLBI network " alt="" coords="257,781,373,808"/>
+<area shape="rect" id="node24" href="$class_vie_v_s_1_1_observation.html" title="representation of a VLBI observation " alt="" coords="246,832,383,859"/>
+<area shape="rect" id="node25" href="$class_vie_v_s_1_1_pointing_vector.html" title="representation of VLBI pointing vector " alt="" coords="239,883,391,909"/>
+<area shape="rect" id="node26" href="$class_vie_v_s_1_1_position.html" title="representation of VLBI station position " alt="" coords="257,933,372,960"/>
+<area shape="rect" id="node27" href="$class_vie_v_s_1_1_scan.html" title="representation of a VLBI scan " alt="" coords="266,984,363,1011"/>
+<area shape="rect" id="node28" href="$class_vie_v_s_1_1_scan_times.html" title="representation of the VLBI scan time " alt="" coords="248,1035,381,1061"/>
+<area shape="rect" id="node29" href="$class_vie_v_s_1_1_skd.html" title="this is the VLBI skd&#45;output class " alt="" coords="269,1085,360,1112"/>
+<area shape="rect" id="node30" href="$class_vie_v_s_1_1_skd_catalog_reader.html" title="sked catalog reader class " alt="" coords="226,1136,403,1163"/>
+<area shape="rect" id="node31" href="$class_vie_v_s_1_1_skd_parser.html" title="skd output file parser " alt="" coords="251,1187,379,1213"/>
+<area shape="rect" id="node32" href="$class_vie_v_s_1_1_sky_coverage.html" title="representation of the VLBI sky coverage object " alt="" coords="241,1237,388,1264"/>
+<area shape="rect" id="node33" href="$class_vie_v_s_1_1_station_endposition.html" title="Information about which station can be used for fillin mode and how much time is available. " alt="" coords="227,1288,403,1315"/>
+<area shape="rect" id="node34" href="$class_vie_v_s_1_1_subcon.html" title="representation of a VLBI subcon " alt="" coords="259,1339,370,1365"/>
+<area shape="rect" id="node35" href="$class_vie_v_s_1_1_vex.html" title="this is the VLBI vex&#45;output class " alt="" coords="269,1389,360,1416"/>
+<area shape="rect" id="node36" href="$class_vie_v_s_1_1_vie_v_s___named_object.html" title="VieVS base object with name. " alt="" coords="219,1440,410,1467"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_antenna___az_el.html" title="azimuth, elevation antenna " alt="" coords="505,5,655,32"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_antenna___ha_dc.html" title="hour angle, declination antenna " alt="" coords="502,56,658,83"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_antenna___x_yew.html" title="X, Y east west antenna. " alt="" coords="501,107,659,133"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_cable_wrap___az_el.html" title="azimuth, elevation cable wrap " alt="" coords="497,157,663,184"/>
+<area shape="rect" id="node8" href="$class_vie_v_s_1_1_cable_wrap___ha_dc.html" title="hour angle, declination cable wrap " alt="" coords="493,208,667,235"/>
+<area shape="rect" id="node9" href="$class_vie_v_s_1_1_cable_wrap___x_yew.html" title="X, Y east west cable wrap. " alt="" coords="493,259,667,285"/>
+<area shape="rect" id="node11" href="$class_vie_v_s_1_1_flux___b.html" title="baseline length based flux information " alt="" coords="526,309,634,336"/>
+<area shape="rect" id="node12" href="$class_vie_v_s_1_1_flux___m.html" title="model based flux information " alt="" coords="525,360,635,387"/>
+<area shape="rect" id="node14" href="$class_vie_v_s_1_1_horizon_mask__line.html" title="line based horizon mask " alt="" coords="495,411,665,437"/>
+<area shape="rect" id="node15" href="$class_vie_v_s_1_1_horizon_mask__step.html" title="step based horizon mask " alt="" coords="492,461,668,488"/>
+<area shape="rect" id="node17" href="$class_vie_v_s_1_1_equipment__el_dependent.html" title="representation of elevation dependent VLBI equipment " alt="" coords="475,512,685,539"/>
+<area shape="rect" id="node37" href="$class_vie_v_s_1_1_baseline.html" title="representation of a VLBI baseline " alt="" coords="521,1035,639,1061"/>
+<area shape="rect" id="node38" href="$class_vie_v_s_1_1_baseline_1_1_parameters.html" title="baseline parameters " alt="" coords="484,1085,676,1112"/>
+<area shape="rect" id="node39" href="$class_vie_v_s_1_1_bbc.html" title="bbc section of observing mode " alt="" coords="535,1136,625,1163"/>
+<area shape="rect" id="node40" href="$class_vie_v_s_1_1_bbc_1_1_bbc__assign.html" title="VieVS::Bbc::Bbc_assign" alt="" coords="497,1187,663,1213"/>
+<area shape="rect" id="node41" href="$class_vie_v_s_1_1_freq.html" title="freq section of observing mode " alt="" coords="533,1237,627,1264"/>
+<area shape="rect" id="node42" href="$class_vie_v_s_1_1_freq_1_1_chan__def.html" title="VieVS::Freq::Chan_def" alt="" coords="501,1288,659,1315"/>
+<area shape="rect" id="node43" href="$class_vie_v_s_1_1_if.html" title="if section of observing mode " alt="" coords="543,1339,617,1365"/>
+<area shape="rect" id="node44" href="$class_vie_v_s_1_1_if_1_1_if__def.html" title="VieVS::If::If_def" alt="" coords="522,1389,638,1416"/>
+<area shape="rect" id="node45" href="$class_vie_v_s_1_1_mode.html" title="observing mode " alt="" coords="531,1440,629,1467"/>
+<area shape="rect" id="node46" href="$class_vie_v_s_1_1_output.html" title="this is the VLBI output class that creates all output files " alt="" coords="527,1491,633,1517"/>
+<area shape="rect" id="node47" href="$class_vie_v_s_1_1_scheduler.html" title="this is the VLBI scheduling class which is responsible for the scan selection and the creation of the..." alt="" coords="517,1541,643,1568"/>
+<area shape="rect" id="node48" href="$class_vie_v_s_1_1_source.html" title="representation of a quasar which can be scheduled " alt="" coords="526,1592,634,1619"/>
+<area shape="rect" id="node49" href="$class_vie_v_s_1_1_source_1_1_parameters.html" title="source parameters " alt="" coords="489,1643,671,1669"/>
+<area shape="rect" id="node50" href="$class_vie_v_s_1_1_station.html" title="representation of a VLBI station " alt="" coords="526,1693,634,1720"/>
+<area shape="rect" id="node51" href="$class_vie_v_s_1_1_station_1_1_parameters.html" title="station parameters " alt="" coords="489,1744,671,1771"/>
+<area shape="rect" id="node52" href="$class_vie_v_s_1_1_track.html" title="track section of observing mode " alt="" coords="530,1795,630,1821"/>
+<area shape="rect" id="node53" href="$class_vie_v_s_1_1_track_1_1_fanout__definition.html" title="VieVS::Track::Fanout\l_definition" alt="" coords="506,1846,654,1887"/>
+</map>

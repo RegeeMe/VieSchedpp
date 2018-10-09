@@ -1,0 +1,4 @@
+<map id="VieVS::Vex::station_block" name="VieVS::Vex::station_block">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_skd_catalog_reader.html#a2cbf789f2cce0758063a370ce4b9d2ed" title="getter for equipment catalog " alt="" coords="193,5,370,46"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_skd_catalog_reader.html#a47c0744acf16b8d03568c4651fb15fda" title="getter for antenna catalog " alt="" coords="193,70,370,111"/>
+</map>

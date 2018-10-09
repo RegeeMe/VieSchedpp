@@ -1,0 +1,20 @@
+<map id="VieVS::Scan::getSourceId" name="VieVS::Scan::getSourceId">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_subcon.html#ab27dd29b95edb98ebee61cedefc1b0ab" title="calculates the earliest possible start time for all single source scans in this subcon ..." alt="" coords="248,266,419,307"/>
+<area shape="rect" id="node11" href="$class_vie_v_s_1_1_subcon.html#ac303163fd96c167889395b6fdf1586a5" title="constructs all baselines for all single source scans in this subcon " alt="" coords="247,70,420,111"/>
+<area shape="rect" id="node12" href="$class_vie_v_s_1_1_subcon.html#adeb5d74e892b648356e58c7db4c9b0d3" title="calculates all baseline scan duration for all single source scans in this subcon " alt="" coords="229,135,437,177"/>
+<area shape="rect" id="node13" href="$class_vie_v_s_1_1_subcon.html#a8c0c88aabbb2928f67a4176e00219cb2" title="calculates all scan duration of all single source scans in this subcon " alt="" coords="239,201,427,242"/>
+<area shape="rect" id="node14" href="$class_vie_v_s_1_1_subcon.html#aca10877b854d0ae172579e8b25d652d1" title="VieVS::Subcon::generateScore" alt="" coords="232,383,435,409"/>
+<area shape="rect" id="node15" href="$class_vie_v_s_1_1_subcon.html#ad7f830269f5b9a96c94155f49720dcff" title="check if there is enough time to reach required endposition for all scans " alt="" coords="230,5,437,46"/>
+<area shape="rect" id="node16" href="$class_vie_v_s_1_1_vex.html#a629b475786614768f7b1bf43dfc453b1" title="write $SCHED block " alt="" coords="248,332,419,359"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_high_impact_scan_descriptor.html#a6f32ca6a1459fa1f574816c6fb9a8601" title="update high impact scans " alt="" coords="485,187,709,229"/>
+<area shape="rect" id="node8" href="$class_vie_v_s_1_1_scheduler.html#afb5414081cf3ac9b39b3bf7a6146c228" title="this function creates a subcon with all scans, times and scores " alt="" coords="513,118,682,159"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_scheduler.html#af4c973e862faf389f580ef83c238bc30" title="schedule high impact scans " alt="" coords="995,187,1192,229"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_scheduler.html#aa11cc985b6d47dc44b0fde718a01a0d4" title="main function that starts the scheduling " alt="" coords="1243,195,1402,221"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_vie_schedpp.html#a4a08bfdb148b554362453409215233c6" title="start VieSched++ " alt="" coords="1453,224,1616,251"/>
+<area shape="rect" id="node7" href="$main_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main function " alt="" coords="1664,224,1715,251"/>
+<area shape="rect" id="node9" href="$class_vie_v_s_1_1_scheduler.html#af4358b5c43c91d84bf0521fcadb9fa37" title="start recursive scan selection " alt="" coords="757,114,947,155"/>
+<area shape="rect" id="node10" href="$class_vie_v_s_1_1_scheduler.html#a6f486b216414097fae4556c5288be561" title="start scan selection between scans " alt="" coords="999,122,1188,163"/>
+<area shape="rect" id="node17" href="$class_vie_v_s_1_1_vex.html#af6d822e3575e202ceb9671d0db44bfa1" title="writ vex file " alt="" coords="523,285,672,312"/>
+<area shape="rect" id="node18" href="$class_vie_v_s_1_1_output.html#ac59b6964b88184053dd0c8d3bc89a1e7" title="creates a vex file " alt="" coords="769,285,935,312"/>
+<area shape="rect" id="node19" href="$class_vie_v_s_1_1_output.html#a9e827e07e5b4e811a14c34302623adc0" title="create all output files " alt="" coords="1240,246,1405,287"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="VieVS::Vex::tracks_block" name="VieVS::Vex::tracks_block">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_skd_catalog_reader.html#a7e8ef70552829f2a40dc1f315a183869" title="getter for all track ids " alt="" coords="234,5,411,46"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_skd_catalog_reader.html#a0daa0e6da3cf2e9dc603757e3233040e" title="getter for tracks fanout " alt="" coords="234,70,411,111"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_skd_catalog_reader.html#a5f34bbd0d8f69cd51972fba0733be432" title="getter for station tracks " alt="" coords="234,135,411,177"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_skd_catalog_reader.html#a96ea165dda954476c9f9d1389d687808" title="getter for channel tracks info " alt="" coords="190,201,455,242"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_skd_catalog_reader.html#a2cbf789f2cce0758063a370ce4b9d2ed" title="getter for equipment catalog " alt="" coords="234,266,411,307"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_skd_catalog_reader.html#a47c0744acf16b8d03568c4651fb15fda" title="getter for antenna catalog " alt="" coords="234,331,411,373"/>
+</map>

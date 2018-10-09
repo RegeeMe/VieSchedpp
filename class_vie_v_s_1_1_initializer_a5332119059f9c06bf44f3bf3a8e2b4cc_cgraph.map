@@ -1,0 +1,5 @@
+<map id="VieVS::Initializer::precalcAzElStations" name="VieVS::Initializer::precalcAzElStations">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_network.html#aed2cbb775656ad0a78b7e0ae155a4d07" title="reference to all stations " alt="" coords="203,5,389,32"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_vie_v_s___object.html#a633f6aeefc0eb1e39ed55c734311a6e7" title="get object id " alt="" coords="221,57,371,98"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_pointing_vector.html#ab5e79ca4cb03bc2ddd1af20dcceaaa10" title="sets time for which azimth and elevation is calculated " alt="" coords="220,122,372,163"/>
+</map>

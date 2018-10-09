@@ -1,0 +1,15 @@
+<map id="VieVS::Vex::sched_block" name="VieVS::Vex::sched_block">
+<area shape="rect" id="node2" href="$class_vie_v_s_1_1_time_system.html#a9620325a7e9f0c1973738bde047994c3" title="internal time format to datetime " alt="" coords="243,5,405,46"/>
+<area shape="rect" id="node3" href="$class_vie_v_s_1_1_scan.html#acc289cbd286ecf95cc7433f11b663e88" title="getter for number of stations " alt="" coords="247,71,401,97"/>
+<area shape="rect" id="node4" href="$class_vie_v_s_1_1_scan.html#ada9f6d5fa07db2722603c375fab09e43" title="getter for source id " alt="" coords="237,121,411,148"/>
+<area shape="rect" id="node5" href="$class_vie_v_s_1_1_scan.html#ace58be8999b1a3543cde1c047f525b41" title="getter for pointing vector for an index " alt="" coords="239,173,409,214"/>
+<area shape="rect" id="node6" href="$class_vie_v_s_1_1_pointing_vector.html#abcf4f7e9e52f0fb014ec46c0a5467e63" title="getter for time for which azimuth and elevation is calculated " alt="" coords="248,238,400,279"/>
+<area shape="rect" id="node7" href="$class_vie_v_s_1_1_time_system.html#afa8f173cfcadccffad5ffa10c4719464" title="converts datetime to string " alt="" coords="246,303,402,345"/>
+<area shape="rect" id="node8" href="$class_vie_v_s_1_1_skd_catalog_reader.html#a5ddf7bcd084b42c8cb071b3963e2f019" title="getter for frequency sequence name " alt="" coords="235,369,413,410"/>
+<area shape="rect" id="node9" href="$class_vie_v_s_1_1_scan.html#a33a7c23e792f7404423836bd1da160a3" title="getter to get all scan times " alt="" coords="245,435,403,461"/>
+<area shape="rect" id="node10" href="$class_vie_v_s_1_1_pointing_vector.html#a23bc8fbf2f44afef47aad793352df23d" title="getter for station id " alt="" coords="248,486,400,527"/>
+<area shape="rect" id="node11" href="$class_vie_v_s_1_1_pointing_vector.html#a3add2ccb11acfef1a0523dab2a1460ce" title="getter for azimuth " alt="" coords="248,551,400,593"/>
+<area shape="rect" id="node12" href="$class_vie_v_s_1_1_vie_v_s___named_object.html#a39740f5606b4ebebef1d5c875b3950c7" title="get object alternative name " alt="" coords="229,617,419,658"/>
+<area shape="rect" id="node13" href="$class_vie_v_s_1_1_station.html#ac041a1a0ef9350cac80af1c9c19dbcd7" title="getter for cable wrap " alt="" coords="225,683,423,709"/>
+<area shape="rect" id="node14" href="$class_vie_v_s_1_1_abstract_cable_wrap.html#a900b8e8c5ed8f8ac9f440b264b50db9f" title="cable wrap section based on unwrapped azimuth from pointing vector " alt="" coords="233,734,415,775"/>
+</map>
